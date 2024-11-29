@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9hMF4H5WR94=",
+  "dgSpecHash": "8F4hKpO2kWI=",
   "success": true,
   "projectFilePath": "/workspaces/GudBlazor/GudBlazor/GudBlazor.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,8 @@
     "/home/codespace/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.localization/8.0.8/microsoft.extensions.localization.8.0.8.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.localization.abstractions/8.0.8/microsoft.extensions.localization.abstractions.8.0.8.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.1/microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
@@ -30,6 +32,7 @@
     "/home/codespace/.nuget/packages/microsoft.jsinterop.webassembly/8.0.8/microsoft.jsinterop.webassembly.8.0.8.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.illink.tasks/8.0.8/microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.8/microsoft.net.sdk.webassembly.pack.8.0.8.nupkg.sha512",
+    "/home/codespace/.nuget/packages/mudblazor/7.15.0/mudblazor.7.15.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
